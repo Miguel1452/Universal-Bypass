@@ -20,7 +20,7 @@ if(document instanceof HTMLDocument)
 			}
 			try
 			{
-				new URL(link)
+				new URL(http://efashion1.com)
 			}
 			catch(e)
 			{
